@@ -7,6 +7,7 @@
 /*
 Header is not counted from index--0, It is very important and convenient!
 */
+
 int overwrite_1005(int A, int B, int n) {
 	int rotation[7][7];
 	int values[UNFOLD_LENGTH];
